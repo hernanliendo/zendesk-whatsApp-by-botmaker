@@ -1,0 +1,18 @@
+{
+  "name": "WhatsApp by Botmaker",
+  "author": {
+    "name": "Botmaker",
+    "email": "contact@botmaker.com",
+    "url": "https://www.botmaker.com"
+  },
+  "defaultLocale": "en",
+  "termsConditionsURL": "https://www.botmaker.com/privacy/",
+  "private": false,
+  "requirementsOnly": true,
+  "singleInstall": true,
+  "version": "1.4",
+  "domainWhitelist": [
+    "botmaker.com",
+    "go.botmaker.com"
+  ]
+}

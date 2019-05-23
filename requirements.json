@@ -1,0 +1,7 @@
+{
+  "channel_integrations": {
+    "botmaker_integration_channel": {
+      "manifest_url": "https://go.botmaker.com/rest/zendesk/manifest.json"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "WhatsApp para Zendesk, por Botmaker",
+    "short_description": "Integre mensagens do WhatsApp para o seu negócio através da Botmaker",
+    "long_description": "Botmaker é um provedor oficial de solucões WhatsApp. Com a Botmaker você pode criar uma conta WhatsApp Business API que já está conectada ao Zendesk e à própria plataforma Botmaker. Você terá a capacidade de conversar com os clientes do Zendesk, gerenciar múltiplos agentes com o mesmo número e conectar bots com Inteligência Artificial. Além de gerenciar um processo de transferência de conversas automatizadas por bots, via WhatsApp, para agentes ativos.",
+    "installation_instructions": "Acesse as 'Configurações' e clique em 'Integração de Canais', na seção Canais. Então pressione 'WhatsApp, por Botmaker', acesse a aba 'Contas' e clique 'Adicionar Conta'"
+  }
+}
