@@ -10,7 +10,7 @@
   "private": false,
   "requirementsOnly": true,
   "singleInstall": true,
-  "version": "1.4",
+  "version": "1.6",
   "domainWhitelist": [
     "botmaker.com",
     "go.botmaker.com"
